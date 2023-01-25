@@ -1,3 +1,3 @@
 class AppConfig {
-  static String rootUrl = 'http://api-demo.lms.booringcodes.in/api';
+  static String rootUrl = 'https://api.lms.booringcodes.in/api';
 }

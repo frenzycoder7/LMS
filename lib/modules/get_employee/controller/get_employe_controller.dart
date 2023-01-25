@@ -36,6 +36,7 @@ class GetEmployeeController extends GetxController {
         employeeList.refresh();
         isLoading.value = false;
       } else {
+        print(response.body);
         // print('sss');
         isLoading.value = false;
       }
